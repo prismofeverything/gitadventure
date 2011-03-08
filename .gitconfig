@@ -1,0 +1,11 @@
+[alias]
+	st = status
+	di = diff
+	co = checkout
+	ci = commit
+	br = branch
+	sh = stash
+
+[user]
+	name = ryan spangler
+	email = ryan.spangler@gmail.com
